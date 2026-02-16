@@ -96,7 +96,7 @@ A beautiful, responsive photo gallery application built with Laravel and Filamen
 ## Admin Panel
 
 - **URL**: `http://localhost:8000/admin`
-- **Email**: diskominfosatik@serangkab.go.id
+- **Email**: test@example.com
 - **Password**: password
 
 **Admin Features**:
